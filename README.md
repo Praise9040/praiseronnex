@@ -1,2 +1,2 @@
 # praiseronnex
-Smart Finance project 
+ PINANCO Smart Finance project 
